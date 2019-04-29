@@ -1,3 +1,14 @@
+(base) C:\Users\mstark\Desktop\DATA515\homework-3-4-testing-exceptions-and-coding-style-mag3141592>pylint dataframe.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.47/10, +0.53)
+
+(base) C:\Users\mstark\Desktop\DATA515\homework-3-4-testing-exceptions-and-coding-style-mag3141592>pylint test_dataframe.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.92/10, +2.08)
+
+
 # Homework 3-4: Coding style and Unit tests.
 
 **Note: This homework has a total of 14 points.**
