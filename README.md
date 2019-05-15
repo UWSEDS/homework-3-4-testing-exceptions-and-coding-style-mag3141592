@@ -11,6 +11,13 @@ Your code has been rated at 10.00/10 (previous run: 7.92/10, +2.08)
 
 # Homework 3-4: Coding style and Unit tests.
 
+##### Grade: 14/14
+
+Nice work and great test coverage!   
+
+------
+
+
 **Note: This homework has a total of 14 points.**
 
 In this homework, you will create two python modules and put them in PEP8 style.
